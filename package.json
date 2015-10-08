@@ -1,0 +1,10 @@
+{
+  "name": "GhostBoat",
+  "version": "1.0.0",
+  "description": "A map of migrant boats in the Mediterranean",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpettinga/ghost-boat"
+  },
+  "author": "Kirk Pettinga"
+}
